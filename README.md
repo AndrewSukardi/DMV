@@ -1,2 +1,2 @@
-# DMV
-I am utilizing R to create a classification model with a simple machine learning approach for prediction.
+# Data Mining and Visualization
+I am working on a university data mining project that involves predicting heart disease and identifying potential bike buyers using R.I am working on a university data mining project that involves predicting heart disease and identifying potential bike buyers using R.
